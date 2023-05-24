@@ -6,7 +6,7 @@
 
 ![](/files/docs/user_guide/en/images/coverimage.png)
 
-This guide was written mainly for people with minimal knowledge of the Drupal content management system. The topics will help them become skilled at installing, administering, site building, and/or maintaining the content of a Drupal-based website. The guide is also aimed at people who already have some experience with a current or past version of Drupal, and want to expand the range of their skills and knowledge or update them to the current version. The guide is kept up-to-date with the current major version of the core software. Currently Drupal 9. 
+This guide was written mainly for people with minimal knowledge of the Drupal content management system. The topics will help them become skilled at installing, administering, site building, and/or maintaining the content of a Drupal-based website. The guide is also aimed at people who already have some experience with a current or past version of Drupal, and want to expand the range of their skills and knowledge or update them to the current version. The guide is kept up-to-date with the current major version of the core software. Currently Drupal 10. 
 
 ## [Preface](/docs/user_guide/en/preface.html)
 Overview of introductory topics that help to leverage this guide in an efficient manner.
